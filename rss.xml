@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Important Audio</title>
+    <link>https://koratkar.github.io/important-audio</link>
+    <description>Sample Podcast Feed with a single episode.</description>
+    <language>en-us</language>
+    <item>
+      <title>Daniel Gross – How to Win</title>
+      <link>https://koratkar.github.io/important-audio/files/howtowin.mp3</link>
+      <description><![CDATA[
+        This episode features Daniel Gross discussing strategies and insights on how to win in various aspects of life and business.
+
+        **Timestamps:**
+        0:00 - Introduction: Input != Output
+        4:04 - Overview of How to Win: sleep, food, exercise, mind, and leadership
+        4:34 - Sleep
+        7:00 - Food
+        8:49 - Exercise
+        11:43 - Mind
+        18:44 - Leadership
+        28:43 - Closing thoughts
+        33:45 - Q&A session begins
+        33:52 - What goes wrong transitioning to the startup roller coaster
+        35:41 - How to minimize time spent online
+        36:59 - Startup mantras 
+        38:05 - How to find community and peer support
+        39:57 - Does this have to suck? 
+        41:05 - How to pivot 
+        43:38 - Managing risk
+        45:28 - Coordination between co-founders
+
+        **Links:**
+        - [Sleep Like The Dead](https://sleeplikethedead.com) – recommendations to improve sleep quality
+        - [Melatonin Article](https://slatestarcodex.com/2018/07/10/melatonin-much-more-than-you-wanted-to-know/) – source for 0.3 milligrams melatonin figure
+        - [How to Get Startup Ideas](https://paulgraham.com/startupideas.html) – Paul Graham's article on startup ideas
+      ]]></description>
+      <enclosure url="https://koratkar.github.io/important-audio/files/howtowin.mp3" length="22,941,712" type="audio/mpeg" />
+      <guid>files/howtowin.mp3</guid>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
