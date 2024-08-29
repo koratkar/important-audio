@@ -3,37 +3,41 @@
   <channel>
     <title>Important Audio</title>
     <link>https://koratkar.github.io/important-audio</link>
-    <description>Sample Podcast Feed with a single episode.</description>
+    <description>RSS feed for important talks and lectures</description>
     <language>en-us</language>
     <item>
       <title>Daniel Gross – How to Win</title>
       <link>https://github.com/koratkar/important-audio/files/howtowin.mp3</link>
       <description><![CDATA[
-        This episode features Daniel Gross discussing strategies and insights on how to win in various aspects of life and business.
-
-        **Timestamps:**
-        0:00 - Introduction: Input != Output
-        4:04 - Overview of How to Win: sleep, food, exercise, mind, and leadership
-        4:34 - Sleep
-        7:00 - Food
-        8:49 - Exercise
-        11:43 - Mind
-        18:44 - Leadership
-        28:43 - Closing thoughts
-        33:45 - Q&A session begins
-        33:52 - What goes wrong transitioning to the startup roller coaster
-        35:41 - How to minimize time spent online
-        36:59 - Startup mantras 
-        38:05 - How to find community and peer support
-        39:57 - Does this have to suck? 
-        41:05 - How to pivot 
-        43:38 - Managing risk
-        45:28 - Coordination between co-founders
-
-        **Links:**
-        - [Sleep Like The Dead](https://sleeplikethedead.com) – recommendations to improve sleep quality
-        - [Melatonin Article](https://slatestarcodex.com/2018/07/10/melatonin-much-more-than-you-wanted-to-know/) – source for 0.3 milligrams melatonin figure
-        - [How to Get Startup Ideas](https://paulgraham.com/startupideas.html) – Paul Graham's article on startup ideas
+        <p>Daniel Gross is an entrepreneur and investor.</p>
+        <p>Daniel was born in Israel. He founded a company called Cue, an AI-powered search engine. Cue raised multiple rounds of financing from Y-Combinator, Sequoia Capital, Index and others.</p>
+        <br>
+        <p>Watch on <a href="https://www.youtube.com/watch?v=M7KVjGqYzxU">YouTube</a>.</p>
+        <p>Timestamps</p>
+        <p>0:00 - Introduction: Input != Output<br>
+        4:04 - Overview of How to Win: sleep, food, exercise, mind, and leadership<br>
+        4:34 - Sleep<br>
+        7:00 - Food<br>
+        8:49 - Exercise<br>
+        11:43 - Mind<br>
+        18:44 - Leadership<br>
+        28:43 - Closing thoughts<br>
+        33:45 - Q&A session begins<br>
+        33:52 - What goes wrong transitioning to the startup roller coaster<br>
+        35:41 - How to minimize time spent online<br>
+        36:59 - Startup mantras<br>
+        38:05 - How to find community and peer support<br>
+        39:57 - Does this have to suck?<br>
+        41:05 - How to pivot<br>
+        43:38 - Managing risk<br>
+        45:28 - Coordination between co-founders</p>
+        <br>
+        <p><strong>Links:</strong></p>
+    <ul>
+        <li><a href="https://sleeplikethedead.com">Sleep Like The Dead</a> – recommendations to improve sleep quality</li>
+        <li><a href="https://slatestarcodex.com/2018/07/10/melatonin-much-more-than-you-wanted-to-know/">Melatonin: Much More than You Wanted to Know</a> – source for 0.3 milligrams melatonin figure</li>
+        <li><a href="https://paulgraham.com/startupideas.html">How to Get Startup Ideas</a> – Paul Graham's article on startup ideas</li>
+    </ul>
       ]]></description>
       <enclosure url="https://raw.githubusercontent.com/koratkar/important-audio/main/files/howtowin.mp3" length="22,941,712" type="audio/mpeg" />
       <guid>files/howtowin.mp3</guid>
