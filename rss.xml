@@ -5,6 +5,12 @@
     <link>https://github.com/koratkar/important-audio</link>
     <description>RSS feed for important talks and lectures</description>
     <language>en-us</language>
+    <image>
+      <url>https://raw.githubusercontent.com/koratkar/important-audio/main/files/logo.jpeg</url>
+      <title>Important Audio logo</title>
+      <link>https://github.com/koratkar/important-audio</link>
+      <description>Important Audio logo</description>
+    </image>
     <item>
       <title>Daniel Gross – How to Win</title>
       <link>https://github.com/koratkar/important-audio/files/howtowin.mp3</link>
