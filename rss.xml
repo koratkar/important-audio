@@ -7,7 +7,7 @@
     <language>en-us</language>
     <item>
       <title>Daniel Gross – How to Win</title>
-      <link>https://koratkar.github.io/important-audio/files/howtowin.mp3</link>
+      <link>https://github.com/koratkar/important-audio/files/howtowin.mp3</link>
       <description><![CDATA[
         This episode features Daniel Gross discussing strategies and insights on how to win in various aspects of life and business.
 
@@ -35,7 +35,7 @@
         - [Melatonin Article](https://slatestarcodex.com/2018/07/10/melatonin-much-more-than-you-wanted-to-know/) – source for 0.3 milligrams melatonin figure
         - [How to Get Startup Ideas](https://paulgraham.com/startupideas.html) – Paul Graham's article on startup ideas
       ]]></description>
-      <enclosure url="https://koratkar.github.io/important-audio/files/howtowin.mp3" length="22,941,712" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/koratkar/important-audio/main/files/howtowin.mp3" length="22,941,712" type="audio/mpeg" />
       <guid>files/howtowin.mp3</guid>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
     </item>
